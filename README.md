@@ -28,3 +28,5 @@
 ![documentos](https://user-images.githubusercontent.com/62630370/87806665-7705ee80-c814-11ea-9132-67368244e246.png)
 
 ![libros](https://user-images.githubusercontent.com/62630370/87806831-addc0480-c814-11ea-8804-fd2f375c1ab3.png)
+
+![blogger](https://user-images.githubusercontent.com/62630370/87806961-e4198400-c814-11ea-980c-027b1784369d.png)
