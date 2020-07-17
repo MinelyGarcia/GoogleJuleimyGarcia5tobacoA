@@ -30,3 +30,5 @@
 ![libros](https://user-images.githubusercontent.com/62630370/87806831-addc0480-c814-11ea-8804-fd2f375c1ab3.png)
 
 ![blogger](https://user-images.githubusercontent.com/62630370/87806961-e4198400-c814-11ea-980c-027b1784369d.png)
+
+![duo](https://user-images.githubusercontent.com/62630370/87807113-188d4000-c815-11ea-853c-b42600e2d255.png)
