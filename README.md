@@ -20,3 +20,7 @@
 ![calendario](https://user-images.githubusercontent.com/62630370/87806129-a36d3b00-c813-11ea-8c63-1de035eaa25a.png)
 
 ![traductor](https://user-images.githubusercontent.com/62630370/87806263-d1eb1600-c813-11ea-83ba-fb1311f2588a.png)
+
+![fotos](https://user-images.githubusercontent.com/62630370/87806379-05c63b80-c814-11ea-9002-35680be974cb.jpg)
+
+
